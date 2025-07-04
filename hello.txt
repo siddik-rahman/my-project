@@ -1,3 +1,4 @@
 Hello World  
 Welcome to git
 I have completed MSc in 2002
+This text is added from master  branch
